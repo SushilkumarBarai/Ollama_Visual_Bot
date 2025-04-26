@@ -38,11 +38,14 @@ Here’s a screenshot of the application:
 
 ### Sample 1
 
-![Screenshot](images/screenshot.png)
+
+![Screenshot](https://github.com/SushilkumarBarai/Ollama_Visual_Bot/blob/main/images/Screenshot.png)
+
 
 ### Sample 2
 
-![Screenshot](images/screenshot_2.png)
+![Screenshot](https://github.com/SushilkumarBarai/Ollama_Visual_Bot/blob/main/images/Screenshot_2.png)
+
 
 ## 📚 Technology Stack
 
