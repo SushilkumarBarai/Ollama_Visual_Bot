@@ -32,6 +32,18 @@ This chatbot allows users to:
 
 ---
 
+# Screenshot 
+
+Here’s a screenshot of the application:
+
+### Sample 1
+
+![Screenshot](images/screenshot.png)
+
+### Sample 2
+
+![Screenshot](images/screenshot_2.png)
+
 ## 📚 Technology Stack
 
 | Technology      | Purpose |
@@ -89,7 +101,6 @@ cd image-chatbot-ollama
 pip install -r requirements.txt
 
 ```
-
 
 ### 4. Run the Application
 ```
