@@ -95,18 +95,15 @@ For more details, visit: [https://ollama.com/](https://ollama.com/)
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/image-chatbot-ollama.git
-cd image-chatbot-ollama
+git clone https://github.com/SushilkumarBarai/Ollama_Visual_Bot.git
 ```
 
 ### 3. Install Dependencies
 ```
 pip install -r requirements.txt
-
 ```
 
 ### 4. Run the Application
 ```
 streamlit run app.py
-
 ```
